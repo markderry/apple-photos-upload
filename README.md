@@ -1,4 +1,4 @@
-# apple-photos-upload
+# Apple Photos Upload
 A folder action for moving photos in to Apple Photos.
 
 This was orginally developed by @natcl however I can't seem to find the orginal repo now. 
